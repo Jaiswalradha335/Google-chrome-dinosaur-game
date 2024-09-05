@@ -1,1 +1,1 @@
-This is a simple google chrome dinosaur game 
+#This is a simple google chrome dinosaur game 
